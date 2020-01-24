@@ -1,2 +1,4 @@
 # mocking-text
-Simple Python GUI App to "Mockify
+mockingtext.py - Simple Python GUI App to "Mockify" Text
+
+mockingbird.py - Discord Bot With Various "Mocking" Commands
